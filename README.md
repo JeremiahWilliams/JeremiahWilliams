@@ -1,6 +1,7 @@
 ## Hi 👋
 I'm Doctor Jeremiah Williams. I'm a full stack developer working mainly with Node, HTML, Javascript, Bootstrap, DataTables, Charts.js, REACT, and eventually also RUST. I used to work as a network engineer for many years, Cisco Security and Microsoft Systems Engineer. I have experience in other languages like C, Java, Pearl, Bash, VBScript, .NET, and a few others. I've found it best to isolate my skill set to a few specific languages and frameworks, so I can master them. I'm not really interested in being a jack of all and master of none. As such, I believe in learning often overlooked advanced features and capabilies of programming languages (Is HTML and programming language?, anyway!). So, I get into indexeddb, webworkers, api (REST), graph, etc. I love coding 😄. I've reached a level of mastery such that I can pickup any language quickly and easily. Oh, I forgot to mention, I use to teach programming in a college. Just point me to your syntax, documentation, and samples and I can get the coding done. But these days, like I said, I prefer to master HTML, Javascript, NodeJS and REACT. I'll let you know when I've mastered them, lol.
 
+## About Me
 - 🔭 I’m currently working for the federal government on api and web frontend projects. Privately, working on a few mobile app project of my own.
 - 🌱 I’m currently learning everything there is to know about HTML, Javascript, NodeJS, and REACT.... also Visual Studio Code, AZURE, AWS, and GIT/CI/CD
 - 👯 I’m looking to create a 7 member software company. Interested contact me.
